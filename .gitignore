@@ -48,6 +48,7 @@ Icon
 Thumbs.db
 .tmtags
 .idea
+*.iml
 tags
 vendor.tags
 tmtagsHistory
