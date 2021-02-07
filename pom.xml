@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>me.yevgeny.poc.h2jmconverter</groupId>
+    <groupId>com.yevgenyk.poc.h2jmconverter</groupId>
     <artifactId>html-to-jira-markup-converter</artifactId>
     <version>1.0-SNAPSHOT</version>
     <name>HTML to Jira markup converter</name>
@@ -12,7 +12,7 @@
     <developers>
         <developer>
             <name>Yevgeny Kuznetsov</name>
-            <url>https://github.com/yevgenykuz</url>
+            <url>https://yevgenyk.com</url>
         </developer>
     </developers>
 
